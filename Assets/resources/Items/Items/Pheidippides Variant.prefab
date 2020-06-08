@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &489849051702773220
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8383572380288239167, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: itemName
+      value: Pheidippides
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239167, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: itemDescription
+      value: 'Sprint for longuer ! '
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239167, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: playerModifier.sprintMultiplier
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239167, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: playerModifier.stamina.staminaConsumtion
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239167, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: playerModifier.stamina.staminaRegeneration
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239167, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: defaultItemPrice
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.209682
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.969291
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.161537
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239371, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8383572380288239588, guid: f1eeba86ec914194aa91dc4991ec8e62,
+        type: 3}
+      propertyPath: m_Name
+      value: Pheidippides Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f1eeba86ec914194aa91dc4991ec8e62, type: 3}

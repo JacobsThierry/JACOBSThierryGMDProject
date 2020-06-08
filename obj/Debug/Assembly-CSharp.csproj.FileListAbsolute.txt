@@ -1,0 +1,5 @@
+c:\Users\thier\Desktop\travail via\gmd\project\Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+c:\Users\thier\Desktop\travail via\gmd\project\Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+c:\Users\thier\Desktop\travail via\gmd\project\Project\Temp\bin\Debug\Assembly-CSharp.pdb
+c:\Users\thier\Desktop\travail via\gmd\project\Project\obj\Debug\Assembly-CSharp.dll
+c:\Users\thier\Desktop\travail via\gmd\project\Project\obj\Debug\Assembly-CSharp.pdb
