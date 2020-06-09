@@ -13,7 +13,8 @@ public class shipStat{
     public void addStats(shipStat s ){
         speed *= s.speed;
         maxHealth += s.maxHealth;
-        health += s.maxHealth;
+        health += s.health;
+        if(health > maxHealth) health = maxHealth;
         health += s.health;
         rotationSpeed *= s.rotationSpeed;
 
