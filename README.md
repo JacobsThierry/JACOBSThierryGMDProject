@@ -2,6 +2,8 @@ Hi, I'm JACOBS Thierry and this is my GMD project !
 Here is the video replacing the oral asignment :
 https://youtu.be/ttk3ogYEi94
 
+(Sorry for the strong french accent)
+
 The assets I used :
 - Musics from the game Super Hexagon
 - Sound effects made with an online tool called Bfxr https://www.bfxr.net/
