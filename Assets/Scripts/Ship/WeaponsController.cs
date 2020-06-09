@@ -29,8 +29,6 @@ public class WeaponsController : MonoBehaviour
     public float minRof = 0.01f;
     public float minRange = 0.1f;
     public float minProjectileSpeed = 0.001f;
-    public AudioClip weaponSound;
-    private AudioSource AudioSource;
 
 
     // Start is called before the first frame update

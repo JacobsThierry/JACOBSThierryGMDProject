@@ -13,10 +13,6 @@ public static float sprintMultiplier;
 public static List<GameObject> items;
 
 
-
-
-
-
     public static bool playerSaved = false;
     public static bool weaponsSaved = false;
     
