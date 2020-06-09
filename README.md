@@ -15,3 +15,6 @@ The assets I used :
   - 25 Mixed Industrial Sign Pack 
   - Space Robot Kyle
   - Space Ship Titanium Fighter
+- tutorials I followed :
+ - brackeys tutorial on how to save
+ - Jayson Weimann's tutorial on scrolling
