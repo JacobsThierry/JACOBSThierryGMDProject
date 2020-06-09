@@ -7,7 +7,7 @@ public class playGroundMusicController : MonoBehaviour
 
 private AudioClip[] musicList;
 private AudioSource audioSource;
-
+/*
     // Start is called before the first frame update
     void Start()
     {
@@ -27,5 +27,5 @@ void playMusic(){
         if(!audioSource.isPlaying){
             playMusic();
         }
-    }
+    }*/
 }

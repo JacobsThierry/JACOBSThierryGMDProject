@@ -110,8 +110,8 @@ public void init() {
       if(explosion != null){
           GameObject exp = Instantiate(explosion, transform.position, transform.rotation);
           exp.transform.localScale = transform.localScale/2f;
-          AudioSource AS = exp.GetComponent<AudioSource>();
-          AS.pitch = 0.5f/transform.localScale.x;
+          audioManager.playExplosion(transform.localScale.x);
+          
       }
   }
 

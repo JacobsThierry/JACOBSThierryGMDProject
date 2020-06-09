@@ -31,7 +31,7 @@ public class playGroundController : MonoBehaviour
             player = (GameObject) Resources.Load<GameObject>("Characters/Player/defaultPlayer");
         }
         GameObject player2 = Instantiate(player, transform);
-        
+        audioManager.playPlaygroundMusic(gameObject);
     }
 
     void playFinishedAnimation(){

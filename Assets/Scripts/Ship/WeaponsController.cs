@@ -45,7 +45,6 @@ public class WeaponsController : MonoBehaviour
             weaponsList.Add(child.gameObject);
         }
         Ship ship = player.GetComponent<Ship>();
-        AudioSource = gameObject.AddComponent<AudioSource>();
 
 
         for (int i = 0; i < ship.items.Count; i++)
@@ -104,19 +103,8 @@ public class WeaponsController : MonoBehaviour
                 for(int i=0; i<gb.Count;i++){
                     gb[i].transform.parent = projectileContainer;
                 }
-                
-                if(weaponSound != null){
-                    AudioSource.clip = weaponSound;
-                    AudioSource.pitch = 1f/(gb[0].GetComponent<ProjectileController>().damages/5f + gb.Count/5f) ; //less damages = higher pitch
-                    if(AudioSource.pitch < 0.3f){
-                        AudioSource.pitch = 0.3f;
-                    }else if(AudioSource.pitch > 2f){
-                        AudioSource.pitch = 3f;
-                    }
-                    AudioSource.Play();
 
-
-                }
+                        audioManager.playPiouSound(gb.Count, gb[0].GetComponent<ProjectileController>().damages);
 
                 
 

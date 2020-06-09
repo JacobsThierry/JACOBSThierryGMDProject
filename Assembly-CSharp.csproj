@@ -65,10 +65,12 @@
      <Compile Include="Assets\Scripts\Ship\projectiles\ProjectileController.cs" />
      <Compile Include="Assets\Scripts\Ship\reactorController.cs" />
      <Compile Include="Assets\Scripts\Ship\staminaControl.cs" />
+     <Compile Include="Assets\Scripts\audioManager.cs" />
      <Compile Include="Assets\Scripts\gameController.cs" />
      <Compile Include="Assets\Scripts\highScore\highScoreData.cs" />
      <Compile Include="Assets\Scripts\highScore\saveSystem.cs" />
      <Compile Include="Assets\Scripts\highScore\scoreController.cs" />
+     <Compile Include="Assets\Scripts\highScoreDisplayController.cs" />
      <Compile Include="Assets\Scripts\hub\ButtonExitHub.cs" />
      <Compile Include="Assets\Scripts\hub\exitDoorController.cs" />
      <Compile Include="Assets\Scripts\hub\hubCameraController.cs" />
@@ -99,7 +101,7 @@
      <Compile Include="Assets\Scripts\playGround\playGroundController.cs" />
      <Compile Include="Assets\Scripts\playGround\playGroundMusicController.cs" />
      <Compile Include="Assets\Scripts\playGround\waveController.cs" />
-     <Compile Include="Assets\highScoreDisplayController.cs" />
+     <Compile Include="Assets\Scripts\soundObjectDestroyer.cs" />
      <None Include="Assets\Models\Ships\SpaceShuttle\Documentation\Documentation.txt" />
      <None Include="Assets\Models\Ships\Space Bomber\Space Bomber info.txt" />
  <Reference Include="UnityEngine">
